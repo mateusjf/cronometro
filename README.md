@@ -2,8 +2,6 @@
 
 Um cronometro feito utilizando a linguagem javascript.
 
-<h2>Aplicação</h2>
-
 <h3>Recursos</h3>
   <ul>
     <li>Conta o Tempo</li>
